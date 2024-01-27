@@ -1,3 +1,9 @@
+THIS PRJOECT IS NOT COMPLETED YET WE ARE STILL WORKING ON IT. AFTER COMPLETION, WE WILL SHARE THE MODEL OF OUR APPLICATION HERE....
+
+
+
+
+
 # Stock-Trading-System
 A real-time stock trading system using Java and Spring framework.
 
